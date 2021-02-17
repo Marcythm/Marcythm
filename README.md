@@ -17,6 +17,110 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
 #### :sparkles: My followers
 
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ir1d">
+        <img src="https://avatars2.githubusercontent.com/u/10709657" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ir1d">Ir1dXD</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mytxd">
+        <img src="https://avatars2.githubusercontent.com/u/43415053" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="mytxd"/>
+      </a>
+      <br />
+      <a href="https://github.com/mytxd">尹名洋</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">mgt</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Xeonacid">
+        <img src="https://avatars2.githubusercontent.com/u/13995937" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Xeonacid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Xeonacid">Xeonacid</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bdbai">
+        <img src="https://avatars2.githubusercontent.com/u/5270106" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="bdbai"/>
+      </a>
+      <br />
+      <a href="https://github.com/bdbai">包布丁</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abc1763613206">
+        <img src="https://avatars2.githubusercontent.com/u/30773956" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="abc1763613206"/>
+      </a>
+      <br />
+      <a href="https://github.com/abc1763613206">abc1763613206</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/slanterns">
+        <img src="https://avatars2.githubusercontent.com/u/10987206" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="slanterns"/>
+      </a>
+      <br />
+      <a href="https://github.com/slanterns">Slanterns</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/suhao">
+        <img src="https://avatars2.githubusercontent.com/u/24261214" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="suhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/suhao">suhao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Netrvin">
+        <img src="https://avatars2.githubusercontent.com/u/11222509" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Netrvin"/>
+      </a>
+      <br />
+      <a href="https://github.com/Netrvin">131</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/siger-young">
+        <img src="https://avatars2.githubusercontent.com/u/13887988" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="siger-young"/>
+      </a>
+      <br />
+      <a href="https://github.com/siger-young">Siger Young</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZenithalHourlyRate">
+        <img src="https://avatars2.githubusercontent.com/u/19512674" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ZenithalHourlyRate"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZenithalHourlyRate">Zenithal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RalXYZ">
+        <img src="https://avatars2.githubusercontent.com/u/19510622" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="RalXYZ"/>
+      </a>
+      <br />
+      <a href="https://github.com/RalXYZ">Ralph</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/StudyingFather">
+        <img src="https://avatars2.githubusercontent.com/u/23295419" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="StudyingFather"/>
+      </a>
+      <br />
+      <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piggymoe">
+        <img src="https://avatars2.githubusercontent.com/u/61851016" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="piggymoe"/>
+      </a>
+      <br />
+      <a href="https://github.com/piggymoe">Piggy</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 ---
