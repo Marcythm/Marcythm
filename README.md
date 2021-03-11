@@ -71,6 +71,13 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/ZenithalHourlyRate">
+        <img src="https://avatars2.githubusercontent.com/u/19512674" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ZenithalHourlyRate"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZenithalHourlyRate">Zenithal</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Netrvin">
         <img src="https://avatars2.githubusercontent.com/u/11222509" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Netrvin"/>
       </a>
@@ -83,13 +90,6 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/suhao">suhao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ZenithalHourlyRate">
-        <img src="https://avatars2.githubusercontent.com/u/19512674" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ZenithalHourlyRate"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZenithalHourlyRate">Zenithal</a>
     </td>
     <td align="center">
       <a href="https://github.com/RalXYZ">
