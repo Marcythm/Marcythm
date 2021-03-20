@@ -71,6 +71,13 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/CoelacanthusHex">
+        <img src="https://avatars2.githubusercontent.com/u/43064781" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="CoelacanthusHex"/>
+      </a>
+      <br />
+      <a href="https://github.com/CoelacanthusHex">Coelacanthus</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ZenithalHourlyRate">
         <img src="https://avatars2.githubusercontent.com/u/19512674" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ZenithalHourlyRate"/>
       </a>
@@ -111,13 +118,6 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/piggymoe">
-        <img src="https://avatars2.githubusercontent.com/u/61851016" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="piggymoe"/>
-      </a>
-      <br />
-      <a href="https://github.com/piggymoe">Piggy</a>
     </td>
   </tr>
 </table>
