@@ -71,18 +71,18 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/slanterns">
-        <img src="https://avatars2.githubusercontent.com/u/10987206" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="slanterns"/>
-      </a>
-      <br />
-      <a href="https://github.com/slanterns">Slanterns</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CoelacanthusHex">
         <img src="https://avatars2.githubusercontent.com/u/43064781" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="CoelacanthusHex"/>
       </a>
       <br />
       <a href="https://github.com/CoelacanthusHex">Coelacanthus</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/slanterns">
+        <img src="https://avatars2.githubusercontent.com/u/10987206" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="slanterns"/>
+      </a>
+      <br />
+      <a href="https://github.com/slanterns">Slanterns</a>
     </td>
     <td align="center">
       <a href="https://github.com/RalXYZ">
