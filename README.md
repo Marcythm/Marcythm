@@ -110,7 +110,7 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
         <img src="https://avatars2.githubusercontent.com/u/13887988" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="siger-young"/>
       </a>
       <br />
-      <a href="https://github.com/siger-young">Siger Young</a>
+      <a href="https://github.com/siger-young">Siger Yang</a>
     </td>
     <td align="center">
       <a href="https://github.com/StudyingFather">
