@@ -92,13 +92,6 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <a href="https://github.com/RalXYZ">Ralph</a>
     </td>
     <td align="center">
-      <a href="https://github.com/suhao">
-        <img src="https://avatars2.githubusercontent.com/u/24261214" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="suhao"/>
-      </a>
-      <br />
-      <a href="https://github.com/suhao">suhao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Netrvin">
         <img src="https://avatars2.githubusercontent.com/u/11222509" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Netrvin"/>
       </a>
@@ -106,11 +99,11 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <a href="https://github.com/Netrvin">131</a>
     </td>
     <td align="center">
-      <a href="https://github.com/StudyingFather">
-        <img src="https://avatars2.githubusercontent.com/u/23295419" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="StudyingFather"/>
+      <a href="https://github.com/suhao">
+        <img src="https://avatars2.githubusercontent.com/u/24261214" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="suhao"/>
       </a>
       <br />
-      <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
+      <a href="https://github.com/suhao">suhao</a>
     </td>
     <td align="center">
       <a href="https://github.com/siger-yeung">
@@ -118,6 +111,13 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/siger-yeung">Siger Yeung</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/StudyingFather">
+        <img src="https://avatars2.githubusercontent.com/u/23295419" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="StudyingFather"/>
+      </a>
+      <br />
+      <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
     </td>
   </tr>
 </table>
