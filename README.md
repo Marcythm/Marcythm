@@ -34,6 +34,13 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <a href="https://github.com/mytxd">尹名洋</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ChungZH">
+        <img src="https://avatars2.githubusercontent.com/u/42088872" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChungZH"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChungZH">Flex Zhong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Enter-tainer"/>
       </a>
@@ -61,6 +68,8 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <br />
       <a href="https://github.com/bdbai">包布丁</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CoelacanthusHex">
         <img src="https://avatars2.githubusercontent.com/u/43064781" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="CoelacanthusHex"/>
@@ -68,8 +77,6 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <br />
       <a href="https://github.com/CoelacanthusHex">Coelacanthus</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/abc1763613206">
         <img src="https://avatars2.githubusercontent.com/u/30773956" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="abc1763613206"/>
@@ -111,13 +118,6 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/siger-yeung">
-        <img src="https://avatars2.githubusercontent.com/u/13887988" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="siger-yeung"/>
-      </a>
-      <br />
-      <a href="https://github.com/siger-yeung">Siger Yeung</a>
     </td>
   </tr>
 </table>
