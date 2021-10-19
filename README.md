@@ -35,6 +35,13 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <a href="https://github.com/mytxd">尹名洋</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Xeonacid">
+        <img src="https://avatars2.githubusercontent.com/u/13995937" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Xeonacid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Xeonacid">Xeonacid</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChungZH">
         <img src="https://avatars2.githubusercontent.com/u/42088872" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChungZH"/>
       </a>
@@ -47,13 +54,6 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/Enter-tainer">mgt</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Xeonacid">
-        <img src="https://avatars2.githubusercontent.com/u/13995937" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Xeonacid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Xeonacid">Xeonacid</a>
     </td>
     <td align="center">
       <a href="https://github.com/ZenithalHourlyRate">
