@@ -9,7 +9,7 @@
 
 I'm Heda Chen, an undergraduate student studying in SJTU.
 
--   :hammer_and_pick: C++ / Rust / Markdown / LaTeX
+-   :hammer_and_pick: C++ / Rust
 -   :pencil2: macOS / iTerm2 / VS Code
 -   Current interest: Programming Languages, Type Theory
 
