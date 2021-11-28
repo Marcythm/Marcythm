@@ -63,20 +63,20 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <a href="https://github.com/ZenithalHourlyRate">Zenithal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bdbai">
-        <img src="https://avatars2.githubusercontent.com/u/5270106" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="bdbai"/>
-      </a>
-      <br />
-      <a href="https://github.com/bdbai">包布丁</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/CoelacanthusHex">
         <img src="https://avatars2.githubusercontent.com/u/43064781" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="CoelacanthusHex"/>
       </a>
       <br />
       <a href="https://github.com/CoelacanthusHex">Coelacanthus</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bdbai">
+        <img src="https://avatars2.githubusercontent.com/u/5270106" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="bdbai"/>
+      </a>
+      <br />
+      <a href="https://github.com/bdbai">包布丁</a>
     </td>
     <td align="center">
       <a href="https://github.com/slanterns">
