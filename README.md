@@ -49,18 +49,18 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
       <a href="https://github.com/Xeonacid">Xeonacid</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ChungZH">
-        <img src="https://avatars2.githubusercontent.com/u/42088872" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChungZH"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChungZH">Flex Zhong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ZenithalHourlyRate">
         <img src="https://avatars2.githubusercontent.com/u/19512674" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ZenithalHourlyRate"/>
       </a>
       <br />
       <a href="https://github.com/ZenithalHourlyRate">Zenithal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChungZH">
+        <img src="https://avatars2.githubusercontent.com/u/42088872" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChungZH"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
       <a href="https://github.com/phoenixrain-pku">
