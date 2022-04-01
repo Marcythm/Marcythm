@@ -39,7 +39,7 @@ I'm Heda Chen, an undergraduate student studying in SJTU.
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Enter-tainer"/>
       </a>
       <br />
-      <a href="https://github.com/Enter-tainer">mgt</a>
+      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Xeonacid">
