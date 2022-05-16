@@ -63,14 +63,21 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Astro2020-lovely">
+        <img src="https://avatars2.githubusercontent.com/u/71299022" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Astro2020-lovely"/>
+      </a>
+      <br />
+      <a href="https://github.com/Astro2020-lovely">Trust Me</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/phoenixrain-pku">
         <img src="https://avatars2.githubusercontent.com/u/45916876" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="phoenixrain-pku"/>
       </a>
       <br />
       <a href="https://github.com/phoenixrain-pku">Phoenix Rain</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/CoelacanthusHex">
         <img src="https://avatars2.githubusercontent.com/u/43064781" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="CoelacanthusHex"/>
@@ -112,13 +119,6 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abc1763613206">
-        <img src="https://avatars2.githubusercontent.com/u/30773956" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="abc1763613206"/>
-      </a>
-      <br />
-      <a href="https://github.com/abc1763613206">abc1763613206</a>
     </td>
   </tr>
 </table>
