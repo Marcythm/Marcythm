@@ -49,18 +49,18 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <a href="https://github.com/ZenithalHourlyRate">Zenithal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Xeonacid">
-        <img src="https://avatars2.githubusercontent.com/u/13995937" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Xeonacid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Xeonacid">Xeonacid</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Astro2020-lovely">
         <img src="https://avatars2.githubusercontent.com/u/71299022" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Astro2020-lovely"/>
       </a>
       <br />
       <a href="https://github.com/Astro2020-lovely">Trust Me</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Xeonacid">
+        <img src="https://avatars2.githubusercontent.com/u/13995937" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Xeonacid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Xeonacid">Xeonacid</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChungZH">
