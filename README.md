@@ -11,8 +11,7 @@ I'm Marcythm, an undergraduate student studying in SJTU.
 
 -   :hammer_and_pick: C++ / Rust
 -   :pencil2: macOS / iTerm2 / VS Code
--   Current interest: Theoretical CS, Computational Complexity (studying now)
--                     ~~Programming Languages, Type Theory~~
+-   Current interest: Theoretical CS, Computational Complexity (studying now) (~~interested but not decided to do yet: Programming Languages, Type Theory~~)
 
 ---
 
