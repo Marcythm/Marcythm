@@ -67,7 +67,7 @@ I'm Marcythm, an undergraduate student studying in SJTU.
         <img src="https://avatars2.githubusercontent.com/u/42088872" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChungZH"/>
       </a>
       <br />
-      <a href="https://github.com/ChungZH">Flex Zhong</a>
+      <a href="https://github.com/ChungZH">Zirnc</a>
     </td>
   </tr>
   <tr>
