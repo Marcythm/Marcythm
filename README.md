@@ -100,18 +100,18 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <a href="https://github.com/RalXYZ">Ralph</a>
     </td>
     <td align="center">
-      <a href="https://github.com/slanterns">
-        <img src="https://avatars2.githubusercontent.com/u/10987206" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="slanterns"/>
-      </a>
-      <br />
-      <a href="https://github.com/slanterns">Slanterns</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/StudyingFather">
         <img src="https://avatars2.githubusercontent.com/u/23295419" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="StudyingFather"/>
       </a>
       <br />
       <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/slanterns">
+        <img src="https://avatars2.githubusercontent.com/u/10987206" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="slanterns"/>
+      </a>
+      <br />
+      <a href="https://github.com/slanterns">Slanterns</a>
     </td>
     <td align="center">
       <a href="https://github.com/miaotony">
