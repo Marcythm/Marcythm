@@ -21,6 +21,13 @@ I'm Marcythm, an undergraduate student studying in SJTU.
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ice1000">
+        <img src="https://avatars2.githubusercontent.com/u/16398479" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ice1000"/>
+      </a>
+      <br />
+      <a href="https://github.com/ice1000">Tesla Zhang‮</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Harry-Chen">
         <img src="https://avatars2.githubusercontent.com/u/2819727" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Harry-Chen"/>
       </a>
@@ -62,6 +69,8 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <br />
       <a href="https://github.com/Xeonacid">Xeonacid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ChungZH">
         <img src="https://avatars2.githubusercontent.com/u/42088872" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChungZH"/>
@@ -69,8 +78,6 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <br />
       <a href="https://github.com/ChungZH">Zirnc</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/CoelacanthusHex">
         <img src="https://avatars2.githubusercontent.com/u/43064781" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="CoelacanthusHex"/>
@@ -112,13 +119,6 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/slanterns">Slanterns</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/miaotony">
-        <img src="https://avatars2.githubusercontent.com/u/41962043" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="miaotony"/>
-      </a>
-      <br />
-      <a href="https://github.com/miaotony">MiaoTony</a>
     </td>
   </tr>
 </table>
