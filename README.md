@@ -114,11 +114,11 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/slanterns">
-        <img src="https://avatars2.githubusercontent.com/u/10987206" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="slanterns"/>
+      <a href="https://github.com/miaotony">
+        <img src="https://avatars2.githubusercontent.com/u/41962043" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="miaotony"/>
       </a>
       <br />
-      <a href="https://github.com/slanterns">Slanterns</a>
+      <a href="https://github.com/miaotony">MiaoTony</a>
     </td>
   </tr>
 </table>
