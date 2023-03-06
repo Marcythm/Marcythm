@@ -60,7 +60,7 @@ I'm Marcythm, an undergraduate student studying in SJTU.
         <img src="https://avatars2.githubusercontent.com/u/19512674" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ZenithalHourlyRate"/>
       </a>
       <br />
-      <a href="https://github.com/ZenithalHourlyRate">Zenithal</a>
+      <a href="https://github.com/ZenithalHourlyRate">Hongren (Zenithal) Zheng</a>
     </td>
     <td align="center">
       <a href="https://github.com/Xeonacid">
