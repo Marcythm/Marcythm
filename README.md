@@ -12,8 +12,8 @@ I'm Marcythm, an undergraduate student studying in SJTU.
 -   :hammer_and_pick: C++ / Rust
 -   :pencil2: macOS / iTerm2 / VS Code
 -   Current interest: Theoretical CS, Computational Complexity
-  -   Polynomial modulo degree of Boolean functions
-  -   Algorithmic hardness by topological complexity barriers
+    -   Polynomial modulo degree of Boolean functions
+    -   Algorithmic hardness by topological complexity barriers
 -   Also interested in: PLT, Type Theory / Static Analysis
 
 ---
