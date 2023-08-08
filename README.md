@@ -96,18 +96,18 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <a href="https://github.com/CoelacanthusHex">Coelacanthus</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bdbai">
-        <img src="https://avatars2.githubusercontent.com/u/5270106" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="bdbai"/>
-      </a>
-      <br />
-      <a href="https://github.com/bdbai">包布丁</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/phoenixrain-pku">
         <img src="https://avatars2.githubusercontent.com/u/45916876" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="phoenixrain-pku"/>
       </a>
       <br />
       <a href="https://github.com/phoenixrain-pku">Phoenix Rain</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bdbai">
+        <img src="https://avatars2.githubusercontent.com/u/5270106" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="bdbai"/>
+      </a>
+      <br />
+      <a href="https://github.com/bdbai">包布丁</a>
     </td>
     <td align="center">
       <a href="https://github.com/RalXYZ">
