@@ -52,13 +52,6 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <a href="https://github.com/Kensuke-Hinata">ypcpy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZenithalHourlyRate">
-        <img src="https://avatars2.githubusercontent.com/u/19512674" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ZenithalHourlyRate"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZenithalHourlyRate">Hongren Zheng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Enter-tainer"/>
       </a>
@@ -72,8 +65,6 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <br />
       <a href="https://github.com/mytxd">尹名洋</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Xeonacid">
         <img src="https://avatars2.githubusercontent.com/u/13995937" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Xeonacid"/>
@@ -81,6 +72,8 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       <br />
       <a href="https://github.com/Xeonacid">Xeonacid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ChungZH">
         <img src="https://avatars2.githubusercontent.com/u/42088872" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChungZH"/>
@@ -122,6 +115,13 @@ I'm Marcythm, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/StudyingFather">Shuhao Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/miaotony">
+        <img src="https://avatars2.githubusercontent.com/u/41962043" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="miaotony"/>
+      </a>
+      <br />
+      <a href="https://github.com/miaotony">MiaoTony</a>
     </td>
   </tr>
 </table>
