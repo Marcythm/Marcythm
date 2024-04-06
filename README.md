@@ -7,14 +7,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcythm&layout=compact&hide=javascript,html,makefile,css&langs_count=10" />
 </a>
 
-I'm Heda Chen, an undergraduate student studying in SJTU.
+I'm Heda Chen, a senior undergraduate@SJTU.
 
 -   :hammer_and_pick: C++ / Rust
 -   :pencil2: macOS / iTerm2 / VS Code
--   Current interest: Theoretical CS, Computational Complexity
-    -   Polynomial modulo degree of Boolean functions
-    -   Algorithmic hardness by topological complexity barriers
--   Also interested in: PLT, Type Theory / Static Analysis
+-   For more information, please see [my personal website](https://trisolaris.top/about/).
 
 ---
 
